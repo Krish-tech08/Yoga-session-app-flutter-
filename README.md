@@ -1,16 +1,15 @@
-# yoga_session_app
+# 🧘‍♂️ Modular Yoga Session App (Flutter)
 
-A new Flutter project.
+A Flutter-based prototype for RevoltronX's smart yoga platform — **ArvyaX**.  
+This app dynamically plays a guided yoga session by reading pose data from a JSON file, and syncing images and audio instructions accordingly.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ⚠️ Work-in-Progress Features
 
-A few resources to get you started if this is your first Flutter project:
+> Some features are not fully implemented yet:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧾 Project Structure
+
