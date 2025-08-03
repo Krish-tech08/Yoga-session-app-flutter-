@@ -1,0 +1,31 @@
+name: yoga_session_app
+description: A Flutter app for guided yoga sessions with synchronized audio and images
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^5.2.1
+  http: ^1.1.0
+  path_provider: ^2.1.1
+  provider: ^6.1.1
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/poses.json
+    - assets/images/
+    - assets/audio/
+
+
